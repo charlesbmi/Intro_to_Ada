@@ -8,3 +8,4 @@ Suggested order:
 2. prime.adb - control structure syntax
 3. lunch.adb - enumeration types, subtypes, and arrays
 4. bad_lunch.adb - run-time constraint errors, exception handler syntax
+5. tasking.adb - Simple concurrency.
