@@ -9,4 +9,5 @@ Suggested order:
 3. lunch.adb - enumeration types, subtypes, and arrays
 4. bad\_lunch.adb - run-time constraint errors, exception handler syntax
 5. access\_types.adb - access types (pointers), records (structs), and dynamic memory allocation / deallocation. Example adapted from Ada Crash Course
-6. tasking.adb - Simple concurrency.
+6. conditions.adb - pre-conditions and post-conditions
+7. tasking.adb - Simple concurrency.
