@@ -20,7 +20,6 @@ procedure Circbuf_Example is
    begin
       for idx in 1..5 loop
          Ada.Text_IO.Put_Line("Consuming!");
-         -- This is buggy. Need to figure out why it doesn't work 
          circbuf.Remove(Value);
       end loop;
    end ConsumerTask;
