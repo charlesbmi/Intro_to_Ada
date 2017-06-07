@@ -10,4 +10,5 @@ Suggested order:
 4. bad\_lunch.adb - run-time constraint errors, exception handler syntax
 5. access\_types.adb - access types (pointers), records (structs), and dynamic memory allocation / deallocation. Example adapted from Ada Crash Course
 6. conditions.adb - pre-conditions and post-conditions
-7. tasking.adb - Simple concurrency.
+7. tasking.adb - Simple concurrency
+8. threadsafe\_containers, circbuf\_example.adb - Concurrent message-passing through protected objects
